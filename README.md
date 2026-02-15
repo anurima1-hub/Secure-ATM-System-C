@@ -38,8 +38,9 @@ This project demonstrates core concepts of C programming including file handling
 | `pin.txt` | Stores user PIN |
 | `lock.txt` | Stores account lock status |
 | `history.txt` | Stores transaction history |
+👩‍💻 Author
 
----
+Anurima First-year Computer Science Engineering Student Passionate about learning programming and building projects.
 
 
 
